@@ -1,16 +1,10 @@
 # MyStudentPal
 A tutoring website that encourages communication and teamwork.
 
-Technologies and Tools:
+Technologies and Tools: Python, Django, ZegoCloud VideoCalling API, and More.
 
-Django
+Will post updates when project is complete.
 
-HTML
 
-CSS
 
-Javascript
 
-ZegoCloud VideoCalling API
-
-AWS (Planned, Hosting and Chatbot feature)
